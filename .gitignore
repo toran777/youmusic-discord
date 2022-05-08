@@ -1,0 +1,7 @@
+.idea/
+v1/
+v2/__pycache__/
+v2/logfile.log
+v2/ffmpeg.exe
+/venv/
+Procfile
